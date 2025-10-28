@@ -1,6 +1,6 @@
-# ⚡ Electricity Usage Analysis by Household and Month using MySQL
+#  Electricity Usage Analysis by Household and Month using MySQL
 
-## 📘 Project Overview
+##  Project Overview
 This project analyzes electricity consumption across different households and months using **MySQL**.  
 It automates billing calculations, identifies high energy consumers, and generates smart analytical reports.  
 
@@ -8,7 +8,7 @@ The goal is to help energy companies and households monitor usage efficiently, c
 
 ---
 
-## 🧩 Features and Tasks
+##  Features and Tasks
 
 ### **Task 1: Update Payment Status Based on Cost**
 Automatically categorize billing records based on `cost_usd`:
@@ -81,13 +81,13 @@ After a new billing record is inserted, automatically calculate metrics such as:
 
 ---
 
-## 🧠 Conclusion
+##  Conclusion
 This MySQL project successfully automates electricity billing and usage analysis.  
 By using stored procedures, triggers, and advanced queries, it provides actionable insights, saves manual effort, and improves energy monitoring efficiency.
 
 ---
 
-## 🗂️ Project Files
+##  Project Files
 | File | Description |
 |------|--------------|
 | `project.sql` | Contains all SQL queries, triggers, and procedures |
@@ -95,7 +95,7 @@ By using stored procedures, triggers, and advanced queries, it provides actionab
 
 ---
 
-## 👩‍💻 Developed By
+##  Developed By
 **Sowndharya Rajarajan**  
 Student, SRM University  
 CSE (AI & ML)
